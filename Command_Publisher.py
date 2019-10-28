@@ -1,7 +1,7 @@
 import os
 import time
 path = "> ~/.local/share/dolphin-emu/Pipes/pipe1"
-Button_Pause = 1.0/60.0
+Button_Pause = 1.0/60.0  # 60 fps
 
 
 def Press_Button(Button):
@@ -52,20 +52,19 @@ def Hold_Button(Button, TIME):
     os.system('echo' + ' ' + 'RELEASE ' + Button + ' ' + path)
 
 
-# Wavedash('LEFT')
-# time.sleep(0.15)
-# Wavedash('RIGHT')
+Wavedash('LEFT')
+time.sleep(0.15)
+Wavedash('RIGHT')
+
 
 def Short_Hop_Attack(Attack):
     if Attack == 'NEUTRAL':
+        
 
-    
     if Attack == 'UP':
 
-    
     if Attack == 'STOMP':
 
-    
     if Attack == 'KNEE':
         Press_Button('X')
         time.sleep(Button_Press)
