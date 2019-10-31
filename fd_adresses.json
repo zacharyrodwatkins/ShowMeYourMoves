@@ -1,11 +1,14 @@
 {
       "p2" : {
-           "falcon" :{
+           "capt_falcon" :{
                "percent" : "80CB6A54" ,
                "x" : "80C694B0"
             },
             "ness" : {
                 "percent" : "80CAC434"
             }    
-      }
+      },
+      "p1" : {
+        
+            "percent" : "80CB6A54" }
 }
