@@ -1,0 +1,3 @@
+/home/zack/ShowMeYourMoves/src/Our-Dolphin/Source/CMakeFiles/rebuild_cache.dir
+/home/zack/ShowMeYourMoves/src/Our-Dolphin/Source/CMakeFiles/Dolphin-Watch.dir
+/home/zack/ShowMeYourMoves/src/Our-Dolphin/Source/CMakeFiles/edit_cache.dir
